@@ -1,4 +1,5 @@
-  import java.util.*;
+java code
+import java.util.*;
 
 public class Demo{
 
